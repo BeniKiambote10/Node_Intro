@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "hello_world_node",
+  "version": "1.0.0",
+  "main": "employee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^20.14.0"
+  },
+  "keywords": [],
+  "description": ""
+}

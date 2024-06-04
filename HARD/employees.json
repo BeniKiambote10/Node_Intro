@@ -1,0 +1,63 @@
+[
+    {
+      "employeeID": 1,
+      "name": "Beni Kiambote",
+      "salary": 50000,
+      "department": "Engineering"
+    },
+    {
+      "employeeID": 2,
+      "name": "Latori Miller",
+      "salary": 60000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 3,
+      "name": "Michael Jackson",
+      "salary": 55000,
+      "department": "Human Resources"
+    },
+    {
+      "employeeID": 4,
+      "name": "Emily Brown",
+      "salary": 70000,
+      "department": "Finance"
+    },
+    {
+      "employeeID": 5,
+      "name": "David Wilson",
+      "salary": 62000,
+      "department": "Sales"
+    },
+    {
+      "employeeID": 6,
+      "name": "Sarah Garcia",
+      "salary": 53000,
+      "department": "Engineering"
+    },
+    {
+      "employeeID": 7,
+      "name": "James Martinez",
+      "salary": 58000,
+      "department": "Marketing"
+    },
+    {
+      "employeeID": 8,
+      "name": "Jennifer Lopez",
+      "salary": 65000,
+      "department": "Human Resources"
+    },
+    {
+      "employeeID": 9,
+      "name": "Christopher Robinson",
+      "salary": 75000,
+      "department": "Finance"
+    },
+    {
+      "employeeID": 10,
+      "name": "Jessica Hernandez",
+      "salary": 59000,
+      "department": "Sales"
+    }
+  ]
+  
